@@ -1,4 +1,4 @@
-import Link from "next/link"
+
 import Image from "next/image";
 import c1 from "../img/c1.jpg";
 import c2 from "../img/c2.jpg";
