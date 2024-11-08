@@ -1,10 +1,10 @@
 export default function About() {
         return (
-          <div className="about bg-cover bg-center bg-no-repeat w-full h-full" style={{backgroundImage: "url('/img/about.jpg')",}}>
+          <div className="about">
                 <br />
                 <center>
-            <div className="about-box block bg-[rgba(0,0,0,0.7)] w-[50%] h-full mx-[10px] my-[100px] line-height-[40px] border-2 border-black border-dotted rounded-[25px] text-white">
-              <h1 className="about-h1 capitalize text-[30px] m-2">About Us</h1>
+            <div className="about-box">
+              <h1 className="about-h1">About Us</h1>
               <p>
                 At [Brand Name], we believe that furniture is more than just functional — it&apos;s an essential part of creating spaces that inspire, comfort, and bring people together. Founded with a passion for exceptional design and craftsmanship, we are committed to producing furniture that not only enhances the beauty of your home but also improves your everyday living experience.
               </p>
