@@ -6,7 +6,7 @@ export default function About() {
             <div className="about-box">
               <h1 className="about-h1">About Us</h1>
               <p>
-                At [Brand Name], we believe that furniture is more than just functional — it's an essential part of creating spaces that inspire, comfort, and bring people together. Founded with a passion for exceptional design and craftsmanship, we are committed to producing furniture that not only enhances the beauty of your home but also improves your everyday living experience.
+                At [Brand Name], we believe that furniture is more than just functional — it&apos;s an essential part of creating spaces that inspire, comfort, and bring people together. Founded with a passion for exceptional design and craftsmanship, we are committed to producing furniture that not only enhances the beauty of your home but also improves your everyday living experience.
               </p>
               <p>
                 We specialize in a wide range of designs, from contemporary and minimalist to classic and timeless. Each piece in our collection is carefully crafted using high-quality, sustainably sourced materials, ensuring that our furniture is as durable as it is beautiful. Whether you&apos;re looking for a statement piece for your living room, a cozy chair to relax in, or a sturdy desk for your home office, our products are designed to offer both style and function.
