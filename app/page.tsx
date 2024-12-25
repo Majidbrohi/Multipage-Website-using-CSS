@@ -12,10 +12,11 @@ export default function Home() {
     <div className="box1">
        <br />
     <div className="box2 ">
-      <h1 className="box2-h1">Modern Interior Design Studio</h1>
-      <p className="box2-p">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
-      <button className="box2-btn ">shop now</button>
-      <button className="box2-btn ">explore</button>
+      <h1 className="box2-h1">Modern Interior 
+        <br />Design Studio</h1>
+      <p className="box2-p">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit <br />imperdiet dolor tempor tristique.</p>
+      <button className="box2-btn ">Shop Now</button>
+      <button className="box2-btn ">Explore</button>
     </div></div>
     <center>
     <div className="heading ">
